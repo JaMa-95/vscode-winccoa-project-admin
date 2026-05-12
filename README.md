@@ -212,4 +212,4 @@ This core library is used by:
 ---
 <center>Made with ❤️ for and by the WinCC OA community</center>
 
-[GitHub](https://github.com/winccoa-tools-pack/vscode-winccoa-control) • [Issues](https://github.com/winccoa-tools-pack/vscode-winccoa-control/issues) • [WinCC OA Docs](https://www.winccoa.com)
+[GitHub](https://github.com/winccoa-tools-pack/vscode-winccoa-project-admin) • [Issues](https://github.com/winccoa-tools-pack/vscode-winccoa-project-admin/issues) • [WinCC OA Docs](https://www.winccoa.com)
